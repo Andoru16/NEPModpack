@@ -1,0 +1,11 @@
+=========== NEPModpack (Forge) v1.2.0 ===========
+                    Changelog
+  - Trocado a versão do forge para v47.1.3
+  - Retirado o Better Combat e adicionado o Epic Fight
+  - Melhoria de uso de processamento do mod Create
+  - adição do Online Display (Placa com imagens)
+  - Immersive Melodies adicionado
+  - Alex Mobs adicionado
+  - Alex Cave´s adicionado
+  - Retirado o FTB Backup2 e trocado por Simples Backups
+  - Etc...
